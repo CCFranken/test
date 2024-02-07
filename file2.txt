@@ -1,2 +1,4 @@
 file222
 modified
+
+use i to enter the insert mode
